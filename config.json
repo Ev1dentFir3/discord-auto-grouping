@@ -1,0 +1,14 @@
+{
+    "botSettings": {
+        "token": "Mjg2NjQ4OTg0OTgwNjg0ODAw.DJSdeQ.n8Yr7eqtXIHBcC90srrNcr6wKkE",
+        "prefix": "!",
+        "newChannelName": "Group",
+        "channelPrefix": "🎮"
+    },
+    "groupCreatorPermissions": {
+        "MANAGE_CHANNELS": false,
+        "MOVE_MEMBERS": false,
+        "MANAGE_PERMISSIONS": false
+    },
+    "__Notes": "Manage_Permissions should only be given if you want group creators to be able to log the channels and give certian prople access, remember that if you relock channels to certian groups first, the group creator can unlock it with this permission."
+}
